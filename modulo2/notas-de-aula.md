@@ -68,12 +68,24 @@ Principal ferramenta utilizada para determinar o estado dos arquivos, e mostrar 
 
 > `git remote add origin <shortname> <url>`
 
-> `git remote add origin https://github.com/karenmacedomonteiro/curso-git-github.git`
+> `git remote add origin https://github.com/kammonteiro/curso-git-github.git`
 
 </br>
 
-Adiciona um caminho em específico.
+`git add`
+
+Quando um repositório é inicialmente clonado, todos os seus arquivos estarão monitorados e inalterados porque você simplesmente os obteve e ainda não os editou. Conforme você edita esses arquivos, o Git passa a vê-los como modificados, porque você os alterou desde seu último `commit`. Você seleciona esses arquivos modificados e então faz o `commit` de todas as alterações selecionadas e o ciclo se repete.
+
+**1.Adiciona um arquivo em específico:**
 > `git add [caminho do arquivo]`
 
-Adiciona todos os arquivos para a esteira de `commit`.
+**2.Adiciona todos os arquivos para a esteira de `commit`:**
 > `git add .`
+
+</br>
+
+`git commit`
+
+Armazena o conteúdo atual do índice em um novo `commit`, juntamente com uma mensagem de registro do usuário que descreve as mudanças. 
+
+> `git commit - m "Detalhe das modificações."
