@@ -77,9 +77,11 @@ Principal ferramenta utilizada para determinar o estado dos arquivos, e mostrar 
 Quando um repositório é inicialmente clonado, todos os seus arquivos estarão monitorados e inalterados porque você simplesmente os obteve e ainda não os editou. Conforme você edita esses arquivos, o Git passa a vê-los como modificados, porque você os alterou desde seu último `commit`. Você seleciona esses arquivos modificados e então faz o `commit` de todas as alterações selecionadas e o ciclo se repete.
 
 **1.Adiciona um arquivo em específico:**
+
 > `git add [caminho do arquivo]`
 
 **2.Adiciona todos os arquivos para a esteira de `commit`:**
+
 > `git add .`
 
 </br>
@@ -89,3 +91,23 @@ Quando um repositório é inicialmente clonado, todos os seus arquivos estarão 
 Armazena o conteúdo atual do índice em um novo `commit`, juntamente com uma mensagem de registro do usuário que descreve as mudanças. 
 
 > `git commit - m "Detalhe das modificações."
+
+</br>
+
+`git push`
+
+Envia as modificações que estão na sua máquina para o repositório remoto (GitHub). 
+
+Antes de executar o comando `git push` pela primeira vez, é necessário primeiro conectar a nossa branch remota (upstream), com a local.
+
+> `git push --set-upstream origin master`
+
+> `git push`
+
+</br>
+
+`git pull`
+
+Pega as modificações que foram feitas no repositório remoto (GitHub) e traz para a sua máquina.
+
+> `git pull`
