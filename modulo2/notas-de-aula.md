@@ -1,14 +1,9 @@
 ## **Módulo 2: Criando o seu primeiro repositório e aprendendo os comandos mais utilizados**
 
-</br>
-
 ### Notas de aula referentes ao **Módulo 2** do **Curso de Git & GitHub**, via *Potência Feminina*, para o Bootcamp de Back-end Java da *WoMakersCode*.
-
-</br>
 
 ### **Aprendendo os comandos mais utilizados do Git:**
 
-</br>
 
 `git config`
 
