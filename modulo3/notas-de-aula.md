@@ -13,3 +13,11 @@ A branch inicial de todo projeto é a **master** (ou **main**). Nas empresas, as
 Para criar uma nova branch, utilizar o seguinte comando:
 
 > `git checkout -b <nome da branch>`
+
+Para saber em qual branch você está:
+
+> `git branch`
+
+Para retornar para a branch principal:
+
+> `git checkout master`
