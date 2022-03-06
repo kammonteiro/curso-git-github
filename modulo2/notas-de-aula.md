@@ -90,7 +90,7 @@ Quando um repositório é inicialmente clonado, todos os seus arquivos estarão 
 
 Armazena o conteúdo atual do índice em um novo `commit`, juntamente com uma mensagem de registro do usuário que descreve as mudanças. 
 
-> `git commit - m "Detalhe das modificações."
+> `git commit -m "Detalhe das modificações."
 
 </br>
 
