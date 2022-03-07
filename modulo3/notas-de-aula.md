@@ -41,6 +41,7 @@ Para criar a branch pelo GitHub:
 Caso queira excluir uma branch pelo GitHub:
 
 **1.** Vá na seção de listagem de branchs
+
 **2.** Clique no ícone da lixeira para realizar a exclusão dessa branch.
 
 </br>
