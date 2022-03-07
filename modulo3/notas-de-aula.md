@@ -1,7 +1,5 @@
 ## **Módulo 3: Trabalhando com branchs**
 
-</br>
-
 ### Notas de aula referentes ao **Módulo 3** do **Curso de Git & GitHub**, via *Potência Feminina*, para o Bootcamp de Back-end Java da *WoMakersCode*.
 
 </br>
