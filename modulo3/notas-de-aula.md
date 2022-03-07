@@ -49,4 +49,5 @@ Caso queira excluir uma branch pelo GitHub:
 > `git merge`
 
 Esse comando faz a união de duas ou mais branchs.
+
 **IMPORTANTE:** Manter a branch `master` sempre atualizada.
