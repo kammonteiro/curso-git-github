@@ -1,7 +1,5 @@
 ## **Módulo 1: Conceitos iniciais**
 
-</br>
-
 ### Notas de aula referentes ao **Módulo 1** do **Curso de Git & GitHub**, via *Potência Feminina*, para o Bootcamp de Back-end Java da *WoMakersCode*.
 
 </br>
