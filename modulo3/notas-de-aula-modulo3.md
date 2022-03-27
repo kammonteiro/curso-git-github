@@ -2,7 +2,7 @@
 
 ### Notas de aula referentes ao **Módulo 3** do **Curso de Git & GitHub**, via *Potência Feminina*, para o Bootcamp de Back-end Java da *WoMakersCode*.
 
-</br>
+<br>
 
 Branchs são separações de código, e com elas é possíve que várias pessoas atuem em um mesmo projeto de forma indepedente e simultâneo.
 
@@ -20,7 +20,7 @@ Para retornar para a branch principal:
 
 > `git checkout master`
 
-</br>
+<br>
 
 Esse comando vai criar e já trocar para essa nova branch.
 
@@ -34,7 +34,7 @@ Para criar a branch pelo GitHub:
 
 **4.** Confirmar a criação dessa nova branch.
 
-</br>
+<br>
 
 Caso queira excluir uma branch pelo GitHub:
 
@@ -42,7 +42,7 @@ Caso queira excluir uma branch pelo GitHub:
 
 **2.** Clique no ícone da lixeira para realizar a exclusão dessa branch.
 
-</br>
+<br>
 
 > `git merge`
 
