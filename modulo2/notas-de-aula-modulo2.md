@@ -13,11 +13,11 @@
 
 >`git config --global user.email email`
 
-**2. Testando suas configurações:** Verificar se a sua identidade no Git foi configurada corretamente. 
+**2. Testando as suas configurações:** Verificar se a sua identidade no Git foi configurada corretamente. 
 
 > `git config --list`
 
-</br>
+<br>
 
 `git help`
 
@@ -29,7 +29,7 @@
 
 >`git help config`
 
-</br>
+<br>
 
 `git init`
 
@@ -43,7 +43,7 @@
 
 >`git commit -m "Versão inicial do projeto"` 
 
-</br>
+<br>
 
 `git status`
 
@@ -51,7 +51,7 @@ Principal ferramenta utilizada para determinar o estado dos arquivos, e mostrar 
 
 > ***Não monitorado** significa basicamente que o Git está vendo um arquivo que não existia na última captura (`commit`). Portanto, o Git não vai incluí-lo nas suas capturas de `commit` até que você o diga explicitamente que assim o faça. Ele faz isso para que você não inclua acidentalmente arquivos binários gerados, ou outros arquivos que você não têm a intenção de incluir.*
 
-</br>
+<br>
 
 `git remote`
 
@@ -65,21 +65,21 @@ Principal ferramenta utilizada para determinar o estado dos arquivos, e mostrar 
 
 > `git remote add origin https://github.com/kammonteiro/curso-git-github.git`
 
-</br>
+<br>
 
 `git add`
 
 Quando um repositório é inicialmente clonado, todos os seus arquivos estarão monitorados e inalterados porque você simplesmente os obteve e ainda não os editou. Conforme você edita esses arquivos, o Git passa a vê-los como modificados, porque você os alterou desde seu último `commit`. Você seleciona esses arquivos modificados e então faz o `commit` de todas as alterações selecionadas e o ciclo se repete.
 
-**1.Adiciona um arquivo em específico:**
+**1. Adiciona um arquivo em específico:**
 
 > `git add [caminho do arquivo]`
 
-**2.Adiciona todos os arquivos para a esteira de `commit`:**
+**2. Adiciona todos os arquivos para a esteira de `commit`:**
 
 > `git add .`
 
-</br>
+<br>
 
 `git commit`
 
@@ -87,7 +87,7 @@ Armazena o conteúdo atual do índice em um novo `commit`, juntamente com uma me
 
 > `git commit -m "Detalhe das modificações."
 
-</br>
+<br>
 
 `git push`
 
@@ -99,7 +99,7 @@ Antes de executar o comando `git push` pela primeira vez, é necessário primeir
 
 > `git push`
 
-</br>
+<br>
 
 `git pull`
 
