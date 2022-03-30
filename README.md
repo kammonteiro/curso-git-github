@@ -62,5 +62,7 @@
 - Vinculando elas ao projeto como se fossem cards
 - Fazendo pull requests e vinculando com as issues
 - Mergeando as pull requests para fechar as issues vinculadas
+- Fazendo pull requests e vinculando com as issues
+- Mergeando as pull requests para fechar as issues vinculadas
 
 **Módulo 6: Revisão e dicas**
