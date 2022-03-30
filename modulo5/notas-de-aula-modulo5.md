@@ -8,4 +8,6 @@ Para fins de aprendizagem, foi criado um Projeto para o **Curso de Git e GitHub*
 
 
 > Pontos de atenção na crianção de uma `issue`:
-Assignees | Labels | Project | Milestone | *Linked Pull Request (quando aplicável)*
+Assignees | Labels | Project | Milestone | *Linked Pull Reque
+
+Criar uma nova **branch** para vincular as `pull requests` às `issues`. 
